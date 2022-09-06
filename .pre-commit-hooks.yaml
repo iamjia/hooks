@@ -4,4 +4,3 @@
     entry: check_commit.sh
     language: script
     types: [shell]
-    stages: [commit-msg]
