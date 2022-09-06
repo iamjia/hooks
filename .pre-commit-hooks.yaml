@@ -1,0 +1,7 @@
+-   id: check-commit
+    name: trim trailing whitespace
+    description: trims trailing whitespace.
+    entry: check-commit
+    language: script
+    types: [text]
+    stages: [commit-msg]
